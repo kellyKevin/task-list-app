@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kellyKevin/task-list-app.git/static/css/main.88ec5f53.css",
+    "main.js": "/kellyKevin/task-list-app.git/static/js/main.34fe22ed.js",
+    "static/js/453.1d33034b.chunk.js": "/kellyKevin/task-list-app.git/static/js/453.1d33034b.chunk.js",
+    "index.html": "/kellyKevin/task-list-app.git/index.html",
+    "main.88ec5f53.css.map": "/kellyKevin/task-list-app.git/static/css/main.88ec5f53.css.map",
+    "main.34fe22ed.js.map": "/kellyKevin/task-list-app.git/static/js/main.34fe22ed.js.map",
+    "453.1d33034b.chunk.js.map": "/kellyKevin/task-list-app.git/static/js/453.1d33034b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88ec5f53.css",
+    "static/js/main.34fe22ed.js"
+  ]
+}
